@@ -1,5 +1,7 @@
 ## Hellenic Doric Column (Blender Script)
 
+![](example.png)
+
 A small Blender script that generates a **Parthenon-style Doric column** with reasonably accurate classical proportions, including **entasis**, **flutes**, **necking annuli**, and a **chamfered abacus**. If you are not familiar with the architectural terms, click [this](https://smarthistory.org/wp-content/uploads/2022/07/GreekOrdersAnnotated.jpg).
 
 The script is **fully parametric** and built on Blender’s `bmesh` module. Default parameters are the data of a Parthenon Doric column, but modifications are also available for creating columns with different shapes. 
